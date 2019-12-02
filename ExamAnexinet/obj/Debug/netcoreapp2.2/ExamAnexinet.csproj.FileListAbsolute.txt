@@ -1,0 +1,11 @@
+C:\Users\bolle\Downloads\ExamAnexinet\bin\Debug\netcoreapp2.2\ExamAnexinet.deps.json
+C:\Users\bolle\Downloads\ExamAnexinet\bin\Debug\netcoreapp2.2\ExamAnexinet.runtimeconfig.json
+C:\Users\bolle\Downloads\ExamAnexinet\bin\Debug\netcoreapp2.2\ExamAnexinet.runtimeconfig.dev.json
+C:\Users\bolle\Downloads\ExamAnexinet\bin\Debug\netcoreapp2.2\ExamAnexinet.dll
+C:\Users\bolle\Downloads\ExamAnexinet\bin\Debug\netcoreapp2.2\ExamAnexinet.pdb
+C:\Users\bolle\Downloads\ExamAnexinet\obj\Debug\netcoreapp2.2\ExamAnexinet.csprojAssemblyReference.cache
+C:\Users\bolle\Downloads\ExamAnexinet\obj\Debug\netcoreapp2.2\ExamAnexinet.csproj.CoreCompileInputs.cache
+C:\Users\bolle\Downloads\ExamAnexinet\obj\Debug\netcoreapp2.2\ExamAnexinet.AssemblyInfoInputs.cache
+C:\Users\bolle\Downloads\ExamAnexinet\obj\Debug\netcoreapp2.2\ExamAnexinet.AssemblyInfo.cs
+C:\Users\bolle\Downloads\ExamAnexinet\obj\Debug\netcoreapp2.2\ExamAnexinet.dll
+C:\Users\bolle\Downloads\ExamAnexinet\obj\Debug\netcoreapp2.2\ExamAnexinet.pdb
